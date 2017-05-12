@@ -5,3 +5,4 @@
 + Bibliographie
 + Mesure vitesse de rotation
 + Demander carte Arduino supplémentaire
++ Résoudre conflit entre module radio et shield EasyVR sur les pins 11, 12, 13
