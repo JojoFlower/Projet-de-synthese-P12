@@ -12,7 +12,7 @@ class Robot{
         void reculer();
         void tourneDroite();
         void tourneGauche();
-        void test(String mot);
+        void afficher(String mot);
 
     private:
         // demi-ponts H pour A
