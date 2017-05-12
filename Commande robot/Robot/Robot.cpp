@@ -76,7 +76,7 @@ void Robot::tourneGauche()
 }
 
 
-void Robot::test(String mot)
+void Robot::afficher(String mot)
 {
     Serial.println(mot);
 }
