@@ -15,6 +15,4 @@ void loop() {
   delay(1000);
   robot.tourneGauche();
   delay(1000);  
-  robot.afficher("Hello world !");
-  delay(1000);
 }

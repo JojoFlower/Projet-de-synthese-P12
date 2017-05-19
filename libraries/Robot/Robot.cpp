@@ -33,7 +33,9 @@ void Robot::avancer()
     digitalWrite(pinA2, LOW);
 
     digitalWrite(pinB1, HIGH);
-    digitalWrite(pinB2, LOW);	
+    digitalWrite(pinB2, LOW);
+
+    delay(1000);
 }
 
 
@@ -47,6 +49,8 @@ void Robot::reculer()
 
     digitalWrite(pinB1, LOW);
     digitalWrite(pinB2, HIGH);	
+
+    delay(1000);
 }
 
 
@@ -60,6 +64,8 @@ void Robot::tourneDroite()
 
     digitalWrite(pinB1, LOW);
     digitalWrite(pinB2, HIGH);	
+
+    delay(1000);
 }
 
 
@@ -72,7 +78,9 @@ void Robot::tourneGauche()
     digitalWrite(pinA2, HIGH);
 
     digitalWrite(pinB1, HIGH);
-    digitalWrite(pinB2, LOW);	
+    digitalWrite(pinB2, LOW);
+    	
+    delay(1000);
 }
 
 
