@@ -1,6 +1,6 @@
 #include <Robot.h>
 
-Robot robot(22,23,52,53,2,3);
+Robot robot(22,23,40,41,2,3);
 
 void setup() {
   Serial.begin(9600);
