@@ -1,4 +1,5 @@
 # WiBot: un robot sans fil, commandé par reconnaissance vocale
+![hello](https://raw.githubusercontent.com/ProjetSolideP12/Projet-de-synthese-P12/master/robot.jpg)
 Projet de 1ère année à CentraleSupélec Rennes (année 2016/2017)
 * Alexandre Lalanne, [alexandre.lalanne@supelec.fr](mailto:alexandre.lalanne@supelec.fr)
 * Gabriel Masseran, [gabriel.masseran@supelec.fr](mailto:gabriel.masseran@supelec.fr)
