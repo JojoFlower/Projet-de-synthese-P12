@@ -1,9 +1,20 @@
 # Projet-de-synthese-P12
-Robot à reconnaissance vocale
+Robot à reconnaissance vocale, commandé à distance.
+
+## Matériel utilisé
+
+* 2 Arduino Mega
+* [Shield EasyVR pour la reconnaissance vocale](https://www.gotronic.fr/art-shield-reconnaissance-vocale-easyvr-3-0-19129.htm)
+* [Châssis de robot 2 roues avec moteurs DC](https://www.adafruit.com/product/3216)
+* [Driver board TB6612](https://learn.adafruit.com/adafruit-tb6612-h-bridge-dc-stepper-motor-driver-breakout/overview)
+* [Module d’alimentation MB102](https://www.gotronic.fr/art-alimentation-3-3-5-v-mb102-21102.htm)
+* 2 modules radio nRF24L01
+* Pile 9V
+
 
 ## Setup
 
-Tout d'abord, télécharger les 3 librairies EasyVR, RF24, et Robot
+Tout d'abord, télécharger les 3 librairies EasyVR, RF24, et Robot.
 
 ### Arduino + shield EasyVR
 1. Poser le shield EasyVR sur la carte Arduino et connecter le module radio comme indiqué sur le schéma
