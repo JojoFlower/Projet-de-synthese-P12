@@ -23,12 +23,12 @@ Student project at CentraleSupélec Rennes (academic year 2016/2017). Made by 3 
 ## Software layer
 Install the 3 libraries bibliothèques EasyVR, RF24 and Robot available in the directory [Arduino/libraries](https://github.com/ProjetSolideP12/Projet-de-synthese-P12/tree/master/Arduino/libraries).
 
-### Arduino + EasyVR shield
+### Transmitter: Arduino + EasyVR shield
 1. Plug the EasyVR shield on the Arduino board. Connect the nRF chip as stated on the transmitter picture
 2. Download the transmitter Arduino sketch [Transmission.ino](https://github.com/ProjetSolideP12/Projet-de-synthese-P12/blob/master/Arduino/Transmission/Transmission.ino)
 3. Open the serial monitor (57600 bd/s)
 
-### Robot
+### Receiver: Robot
 1. Connected the components as in the receiver picture
 2. Download the receiver Arduino sketch [Reception.ino](https://github.com/ProjetSolideP12/Projet-de-synthese-P12/blob/master/Arduino/Reception/Reception.ino)
 3. Unplug the Arduino and connect it to the USB port of the adaptable power supply
