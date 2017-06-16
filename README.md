@@ -1,7 +1,6 @@
 # WiBot: a tiny voice-controlled robot
 ![hello](https://raw.githubusercontent.com/ProjetSolideP12/Projet-de-synthese-P12/master/img/robot.jpg)
 Student project at CentraleSupélec Rennes (academic year 2016/2017). Made by 3 students:
-=======
 * Alexandre Lalanne, [alexandre.lalanne[magicsymbol]supelec.fr](mailto:alexandre.lalanne[magicsymbol]supelec.fr)
 * Gabriel Masseran, [gabriel.masseran[magicsymbol]supelec.fr](mailto:gabriel.masseran[magicsymbol]supelec.fr)
 * Joel Nguesson, [joel.nguesson[magicsymbol]supelec.fr](mailto:joel.nguesson[magicsymbol]supelec.fr)
