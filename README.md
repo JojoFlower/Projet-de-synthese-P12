@@ -1,5 +1,5 @@
 # WiBot: a tiny voice-controlled robot
-![hello](https://raw.githubusercontent.com/ProjetSolideP12/Projet-de-synthese-P12/master/robot.jpg)
+![hello](https://raw.githubusercontent.com/ProjetSolideP12/Projet-de-synthese-P12/master/img/robot.jpg)
 <<<<<<< HEAD
 Student project at CentraleSupélec Rennes (academic year 2016/2017). Made by 3 students:
 =======
@@ -20,9 +20,9 @@ Projet de 1ère année à CentraleSupélec Rennes (année 2016/2017)
 
 ## Connections
 ### Transmitter (nRF24L01)
-![nrf](https://raw.githubusercontent.com/ProjetSolideP12/Projet-de-synthese-P12/master/branchement_radio.png)
+![nrf](https://raw.githubusercontent.com/ProjetSolideP12/Projet-de-synthese-P12/master/img/transmitter_bb.png)
 ### Receiver (nRF24L01 + DC motors + H-bridges)
-![moteur](https://raw.githubusercontent.com/ProjetSolideP12/Projet-de-synthese-P12/master/branchement_moteurs.png)
+![moteur](https://raw.githubusercontent.com/ProjetSolideP12/Projet-de-synthese-P12/master/img/receiver_bb.png)
 
 ## Software layer
 Install the 3 libraries bibliothèques EasyVR, RF24 and Robot available in the directory [Arduino/libraries](https://github.com/ProjetSolideP12/Projet-de-synthese-P12/tree/master/Arduino/libraries).
