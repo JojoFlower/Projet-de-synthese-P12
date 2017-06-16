@@ -9,7 +9,7 @@ Student project at CentraleSupélec Rennes (academic year 2016/2017). Made by 3 
 * Arduino x2 (we had only Megas but even Nanos should be enough !)
 * [EasyVR Arduino shield](http://www.robotshop.com/eu/fr/blindage-arduino-reconnaissance-vocale-easyvr-30-assembler.html)
 * [Mini Round Robot Chassis Kit - 2WD with DC Motors](https://www.adafruit.com/product/3216)
-* [[Adafruit TB6612 1.2A DC/Stepper Motor Driver Breakout Board](https://learn.adafruit.com/adafruit-tb6612-h-bridge-dc-stepper-motor-driver-breakout/overview)
+* [Adafruit TB6612 1.2A DC/Stepper Motor Driver Breakout Board](https://learn.adafruit.com/adafruit-tb6612-h-bridge-dc-stepper-motor-driver-breakout/overview)
 * [MB102 breadboard module](https://www.amazon.fr/Breadboard-Module-alimentation-Puissance-Arduino/dp/B00IOB9B1Q)
 * nRF24L01 2.4GHz module x2
 * 9V battery
